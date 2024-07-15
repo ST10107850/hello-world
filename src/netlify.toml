@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/*"
+to = "https://st10107850.forem.com/:splat"
+status = 301
+force = true
